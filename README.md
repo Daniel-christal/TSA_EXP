@@ -87,12 +87,15 @@ plt.show()
 
 ```
 ### OUTPUT:
-<img width="1657" height="531" alt="image" src="https://github.com/user-attachments/assets/a440b5be-2ca5-4033-ae91-6ad438ef0247" />
-<img width="1097" height="524" alt="image" src="https://github.com/user-attachments/assets/df084a7b-d7d2-4887-bcfd-92c83c51bbf5" />
-<img width="1191" height="602" alt="image" src="https://github.com/user-attachments/assets/50b5f4f8-c862-4854-be9c-4c6ed7898a3e" />
-<img width="984" height="624" alt="image" src="https://github.com/user-attachments/assets/11aeb0b7-f7c1-46ba-a458-81692ffd0abd" />
-<img width="1097" height="563" alt="image" src="https://github.com/user-attachments/assets/646fd9d0-9ec9-4eb8-a806-a9b001021d0a" />
+<img width="847" height="586" alt="image" src="https://github.com/user-attachments/assets/77a8d351-7679-4a44-8228-c6e05c1c7377" />
 
+<img width="672" height="492" alt="image" src="https://github.com/user-attachments/assets/739b6e75-568c-4039-bd93-f36a6ed1c296" />
+
+<img width="702" height="530" alt="image" src="https://github.com/user-attachments/assets/6eb7cdf0-7016-44b2-931f-a7e61a2da5e7" />
+
+<img width="761" height="650" alt="image" src="https://github.com/user-attachments/assets/b2c71290-5b47-4850-8c1b-8f2c1973fa11" />
+
+<img width="761" height="555" alt="image" src="https://github.com/user-attachments/assets/1a919483-59c6-4fc7-adbd-293726d49024" />
 
 ### RESULT:
 Thus the program run successfully based on the Holt Winters Method model.
