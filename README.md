@@ -1,5 +1,5 @@
 # Ex.No: 6               HOLT WINTERS METHOD
-### Date: 30/9/2025
+### Date: 04.10.2025
 
 
 
